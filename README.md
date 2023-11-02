@@ -1,2 +1,2 @@
 # SpringWebFluxExample
-Example project with Spting WebFlux demonstration
+Example project with Spring WebFlux demonstration
